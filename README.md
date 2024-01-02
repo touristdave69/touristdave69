@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello Friend 👋
+The profile is a work in progress still
 <!--
 **touristdave69/touristdave69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
