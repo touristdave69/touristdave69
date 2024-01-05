@@ -1,7 +1,7 @@
 ### Hello Friend 👋
 The profile is a work in progress still...
 links and projects will be uploaded soon
-<!--
+
 **touristdave69/touristdave69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
