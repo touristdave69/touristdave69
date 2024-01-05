@@ -1,14 +1,11 @@
 ### Hello Friend 👋
 The profile is a work in progress still...
-links and projects will be uploaded soon
+links and projects will be uploaded soon once i figure out how to use Github
 
-**touristdave69/touristdave69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# --Me:
 
 - 🔭 I’m currently working on ... getting a better understanding of DEVOPS
 - 🌱 I’m currently learning ... DEVOP projects on AWS
-** 📫 How to reach me: ...
 - 😄 Pronouns: Pendejo
 - ⚡ Fun fact: ... I shoot and edit music videos/ videos for fun 
 -->
