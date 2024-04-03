@@ -1,16 +1,13 @@
-### Hello Friend 👋
-The profile is a work in progress still...
-links and projects will be uploaded soon once i figure out how to use Github
+<h1 align="center">Hi 👋, I'm David</h1>
+<h3 align="center">A passionate learner for Devops from Atlanta, Georgia.</h3>
 
-# --Me:
-Famliar with 
-![sql-database-generic 190x256](https://github.com/touristdave69/touristdave69/assets/145601015/23220c9a-9285-4b7c-a217-7205bec312ec)
-![aws-academy-cloud-foundations](https://github.com/touristdave69/touristdave69/assets/145601015/d64d2cb6-1ca5-4440-a4ab-6f427ab09d29)
-![aws-academy-graduate-aws-academy-cloud-architecting](https://github.com/touristdave69/touristdave69/assets/145601015/c43ce675-0ad7-4f81-bd6a-cd9bd03d99f6)
+- 🤝 I’m looking for help with **projects related to Devops**
 
+- ⚡ Fun fact, **Before Jumping into Tech I was a Carpenter, construction worker, Delivery Driver, and video editor. (not all at the same time. lol)**
 
-- 🔭 I’m currently working on ... getting a better understanding of DEVOPS
-- 🌱 I’m currently learning ... DEVOP projects on AWS
-- 😄 Pronouns: Pendejo
-- ⚡ Fun fact: ... I shoot and edit music videos/ videos for fun 
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
