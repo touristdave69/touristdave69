@@ -5,6 +5,6 @@
 
 - ⚡ Fun fact, **Before Jumping into Tech I worked as a Carpenter, construction worker, Delivery Driver, and video editor. (not all at the same time. lol)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Instagram@davidflor3s </h3>
 <p align="left">
 </p>
