@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate learner for Devops from Atlanta, Georgia.</h3>
+<h3 align="center">fellow learner, builder, or coffee enthusiast from Atlanta, Georgia.</h3>
 
 - 🤝 I’m looking for help with **projects related to Devops**
 
